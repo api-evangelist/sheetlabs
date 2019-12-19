@@ -1,0 +1,45 @@
+{
+    "name": "Sheetlabs",
+    "description": "Turn your spreadsheets into APIs effortlessly. Eliminate the hassle and human error of manually emailing and importing spreadsheets.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/6697-sheetlabs.jpg",
+    "tags": [
+        "deployment",
+        "have api",
+        "spreadsheets"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/sheetlabs\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Sheetlabs",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/6697-sheetlabs.jpg",
+            "humanURL": "https:\/\/sheetlabs.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/sheetlabs-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/sheetlabs"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/sheetlabs"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/sheetlabs.com"
+        }
+    ]
+}
